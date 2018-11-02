@@ -2,7 +2,7 @@
 
 ## Preámbulo
 
-[Kmimos](https://www.kmimos.com.mx/) es un emprendimiento enfocado al cuidado de perros que nació en México hace 3 años y ahora opera también en Colombia y Perú. Kmimos se presenta como una nueva opción segura, conveniente y rápida para que cualquier dueña o dueño de perros y gatos pueda conseguir a través su página web una red de Cuidadores Certificados que cuidan perritos en sus propios hogares, asegurándose que duerman libres de encierros o jaulas.
+[Kmimos](https://www.kmimos.com.mx/) es un emprendimiento enfocado al cuidado de perros que nació en México hace 3 años y ahora opera también en Colombia y Perú. Kmimos se presenta como una nueva opción segura, conveniente y rápida para que cualquier dueña o dueño de perros (y también gatos) pueda conseguir a través su página web una red de Cuidadores Certificados que les cuiden en sus propios hogares, asegurándose que duerman libres de encierros o jaulas.
 
 Aunque Kmimos ofrece un menú de servicios tales como transporte, baño, corte de uñas, entrenamientos, etc., los servicios más solicitados son hospedaje y paseos.  La propuesta de Kmimos está orientada  en que el cliente y su mascota dispongan de todos los servicios necesarios en un solo lugar, y lo más importante, con un cuidador o cuidadora de confianza.
 
@@ -37,13 +37,13 @@ Estos retos son lo que llamamos *electivos*, es decir, tú podrás elegir cuál 
 
 ## Consideraciones Generales
 
-Kmimos tiene dos tipos de usuarios: los que ofrecen los servicios y los que los contratan. En ambos retos la estrategia estará enfocada a éstos últimos.
-Aunque Kmimos ofrece una amplia variedad de servicios sus líneas de negocio principales son paseos y hospedaje de perros
-La base de datos está organizada a partir de varios segmentos, tipos de mascota, historial de compra, etc. ¡Utiliza sabiamente la data que te proporcionen! 
-Para la estrategia omnicanal considera que tendrás que realizar trabajo de campo y aplicar tus conocimientos de Service Design
-Para la estrategia de rediseño no pierdas de vista los alcances técnicos, el presupuesto y las necesidades de tu cliente (Kmimos)
-Los founders de Kmimos están dispuestos a proveer a los equipos toda la información que necesiten y a resolver todas las dudas que les ayuden a llegar a una solución para su negocio
-Sin embargo no olvides que si necesitas información que tu cliente no tenga o no haya considerado, tú misma junto con tu equipo la tendrán que generar.
+* Kmimos tiene dos tipos de usuarios: los que ofrecen los servicios y los que los contratan, en ambos retos la estrategia estará enfocada a éstos últimos
+* Aunque Kmimos ofrece una amplia variedad de servicios sus líneas de negocio principales son paseos y hospedaje 
+* La base de datos está organizada a partir de varios segmentos, tipos de mascota, historial de compra, etc. ¡Utiliza sabiamente la data que te proporcionen! 
+* Para la estrategia omnicanal considera que tendrás que realizar trabajo de campo y aplicar tus conocimientos de Service Design
+* Para la estrategia de rediseño no pierdas de vista los alcances técnicos, el presupuesto y las necesidades de tu cliente (Kmimos)
+* Los founders de Kmimos están dispuestos a proveer a los equipos toda la información que necesiten y a resolver todas las dudas que les ayuden a llegar a una solución para su negocio
+* Sin embargo no olvides que si necesitas información que tu cliente no tiene o no ha considerado, tú misma junto con tu equipo la tendrán que generar.
 
 
 
@@ -57,6 +57,13 @@ Esperamos de ti que apliques todas las herramientas adquiridas durante el track 
 Tu equipo estará en libertad de definir con el cliente (Kmimos) cuáles son sus necesidades y establecer cuáles serán los entregables.
 
 Lo que esperamos es básicamente una propuesta para aumentar los leads y la conversión tanto en la web como en las tiendas físicas. propuesta  que debe estar fundamentada en investigación y en un profundo entendimiento de los usuarios de petco y sus necesidades y que al mismo tiempo cubra las objetivos de negocio de Kmimos.
+
+## Hacker edition
+
+* Hacer una propuesta de estrategia digital en redes sociales que incentive a los usuarios de Petco a solicitar los servicios de Kmimos a través de su página web.
+
+* Maquetar tu propuesta de rediseño de la página web de Kmimos con HTML, CSS y Javascript.
+
 
 ## Niveles esperados UX y SS
 
