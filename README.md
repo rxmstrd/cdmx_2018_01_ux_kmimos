@@ -2,16 +2,14 @@
 
 ## Preámbulo
 
-[Kmimos](https://www.kmimos.com.mx/) es un emprendimiento enfocado al cuidado de perros que nació en México hace 3 años y ahora opera también en Argentina, Panamá, Colombia y Perú. Kmimos se presenta como una nueva opción segura, conveniente y rápida para que cualquier dueña o dueño de perros pueda conseguir a través su página web una red de Cuidadores Certificados que cuidan perritos en sus propios hogares, asegurándose que duerman libres de encierros y jaulas.
+[Kmimos](https://www.kmimos.com.mx/) es un emprendimiento enfocado al cuidado de perros que nació en México hace 3 años y ahora opera también en Colombia y Perú. Kmimos se presenta como una nueva opción segura, conveniente y rápida para que cualquier dueña o dueño de perros y gatos pueda conseguir a través su página web una red de Cuidadores Certificados que cuidan perritos en sus propios hogares, asegurándose que duerman libres de encierros o jaulas.
 
 Aunque Kmimos ofrece un menú de servicios tales como transporte, baño, corte de uñas, entrenamientos, etc., los servicios más solicitados son hospedaje y paseos.  La propuesta de Kmimos está orientada  en que el cliente y su mascota dispongan de todos los servicios necesarios en un solo lugar, y lo más importante, con un cuidador o cuidadora de confianza.
 
 
-
 ## Introducción
 
-Kmimos ha tenido un vertiginoso éxito desde su inicio. Recientemente cerraron una alianza con la cadena de tiendas PetCo y están buscando la manera más efectiva de aprovechar esta alianza para conseguir que más usuarios usen los servicios de Kmimos. Para lograr este objetivo están pensando en hacer campañas en dos canales principales de Petco su página web y sus tiendas físicas.
-
+Kmimos ha tenido un vertiginoso éxito desde su inicio. Recientemente cerraron una alianza con la cadena de tiendas Petco y están buscando la manera más efectiva de aprovechar esta alianza para conseguir que más usuarios usen los servicios de Kmimos. Para lograr este objetivo están pensando en hacer campañas en tres canales principales de Petco: su página web, sus redes sociales  y sus tiendas físicas.
 
 
 ## Contexto
