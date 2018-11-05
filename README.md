@@ -42,7 +42,7 @@ Estos retos son lo que llamamos *electivos*, es decir, tú podrás elegir cuál 
 * La base de datos está organizada a partir de varios segmentos, tipos de mascota, historial de compra, etc. ¡Utiliza sabiamente la data que te proporcionen! 
 * Para la estrategia omnicanal considera que tendrás que realizar trabajo de campo y aplicar tus conocimientos de Service Design
 * Para la estrategia de rediseño no pierdas de vista los alcances técnicos, el presupuesto y las necesidades de tu cliente (Kmimos)
-* Los founders de Kmimos están dispuestos a proveer a los equipos toda la información que necesiten y a resolver todas las dudas que les ayuden a llegar a una solución para su negocio
+* Los founders de Kmimos están dispuestos a proveer a los equipos de toda la información que necesiten y a resolver todas las dudas que les ayuden a llegar a una solución para su negocio
 * Sin embargo no olvides que si necesitas información que tu cliente no tiene o no ha considerado, tú misma junto con tu equipo la tendrán que generar.
 
 
