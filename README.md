@@ -2,7 +2,7 @@
 
 ## Preámbulo
 
-[Kmimos](https://www.kmimos.com.mx/) es un emprendimiento enfocado al cuidado de perros que nació en México hace 3 años y ahora opera también en Colombia y Perú. Kmimos se presenta como una nueva opción segura, conveniente y rápida para que cualquier dueña o dueño de perros (y también gatos) pueda conseguir a través su página web una red de Cuidadores Certificados que les cuiden en sus propios hogares, asegurándose que duerman libres de encierros o jaulas.
+[Kmimos](https://www.kmimos.com.mx/) es un emprendimiento enfocado al cuidado de perros que nació en México hace 3 años y ahora opera también en Colombia y Perú. Kmimos se presenta como una nueva opción segura, conveniente y rápida para que cualquier dueña o dueño de perros (y también gatos) pueda conseguir a través de su página web una red de Cuidadores Certificados que les cuiden en sus propios hogares, asegurándose que duerman libres de encierros o jaulas.
 
 Aunque Kmimos ofrece un menú de servicios tales como transporte, baño, corte de uñas, entrenamientos, etc., los servicios más solicitados son hospedaje y paseos.  La propuesta de Kmimos está orientada  en que el cliente y su mascota dispongan de todos los servicios necesarios en un solo lugar, y lo más importante, con un cuidador o cuidadora de confianza.
 
